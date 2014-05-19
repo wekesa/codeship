@@ -7,7 +7,7 @@ The test is in the `test` folder.
 
 ## How to run the test locally
 
-To run the test locally:
+To run the test locally follow the following steps:
 
 1. Clone the repo in some local folder: `git clone https://github.com/tidoust/codeship.git`
 2. Install Composer if needed: `curl -sS https://getcomposer.org/installer | php`
